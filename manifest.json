@@ -1,0 +1,9 @@
+{
+    "domain": "ble_gasmon",
+    "name": "BLE Gas Monitor",
+    "version": "1.0.0",
+    "requirements": ["bleak"],
+    "dependencies": [],
+    "codeowners": ["@hflocki"],
+    "iot_class": "local_polling"
+}
